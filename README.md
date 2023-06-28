@@ -3,7 +3,7 @@
 
 This project is one of the assessments for the Master in Applied Cybernetics course.
 
-The objective of this analysis was to identify the eight most frequently occurring colours within the paintings from these selected departments of the MET museum.
+The objective of this analysis is to identify the eight most frequently occurring colours within the paintings from these selected departments of the MET museum.
 
 The MET  dataset can be accessed here:  https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
 
